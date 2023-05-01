@@ -61,8 +61,8 @@ author:
   bio    : "We believe in free education."
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://brightwave-labs.github.io/"
+      icon: "fas fa-fw fa-globe"
+      url: "https://medium.com/@brightwavelabs"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/BrightWaveLabs"
@@ -72,6 +72,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/brightwavelabs/"
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@brightwavelabs"
 
 footer:
   links:
