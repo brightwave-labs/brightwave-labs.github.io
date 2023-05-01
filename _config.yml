@@ -75,6 +75,10 @@ author:
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@brightwavelabs"
+    - label: "Medium"
+      icon: "fab fa-fw fa-coffee"
+      url: "https://ko-fi.com/brightwavelabs"
+      
 
 footer:
   links:
