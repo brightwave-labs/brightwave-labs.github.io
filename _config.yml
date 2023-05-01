@@ -78,7 +78,9 @@ author:
     - label: "Ko-Fi"
       icon: "fab fa fa-coffee"
       url: "https://ko-fi.com/brightwavelabs"
-      
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@brightwavelabs"
 
 footer:
   links:
