@@ -1,5 +1,5 @@
 ---
-title: "Notification: 20th May, 2023 Tutorials"
+title: "Tutorials Notification for 20th May, 2023"
 categories:
   - Blog
 tags:

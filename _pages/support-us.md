@@ -15,7 +15,5 @@ Thank you for your continued support and partnership in our mission.
 
 You can buy us a coffee at [Ko-Fi☕](https://ko-fi.com/brightwavelabs)
 
-Sincerely,
+Sincerely,  
 BrightWave Labs
-
-
