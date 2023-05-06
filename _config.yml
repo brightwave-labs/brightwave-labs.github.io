@@ -1,24 +1,9 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Brightwave Labs
-email:
+email: BrightWaveLabs@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   We believe in free education
-twitter_username: username
-github_username: username
+twitter_username: BrightWaveLabs 
+github_username: brightwave-labs
 minimal_mistakes_skin: aqua
 search: true
 
@@ -62,7 +47,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-globe"
-      url: "https://medium.com/@brightwavelabs"
+      url: "https://brightwave-labs.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/BrightWaveLabs"
@@ -87,7 +72,7 @@ author:
     - label: "Meetings"
       icon: "fab fa fa-calendar"
       url: "https://calendly.com/brightwavelabs/connect-with-brightwave-labs"
-    - label: "LinkedIn"
+    - label: "Slack"
       icon: "fab fa-fw fa-slack"
       url: "https://brightwavelabs.slack.com"
 
