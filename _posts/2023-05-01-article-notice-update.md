@@ -1,5 +1,5 @@
 ---
-title: "Notification: Next week tutorials (20th May 2023)"
+title: "Notification: 20th May, 2023 Tutorials"
 categories:
   - Blog
 tags:
@@ -10,8 +10,10 @@ tags:
   - Go
 ---
 
-**Tutorial-Notification:** Hello members👋, We are publishing below 2 tutorials in our github organization🏫. Below are the approved topics.
+**Tutorial-Notification** 
 {: .notice--success}
+
+Hello members👋, We are publishing below 2 tutorials in our github organization🏫. Below are the approved topics.
 
 | **Tutorial** | **Keywords** | **Link** |
 |:-----:|:-----:|:-----:|
