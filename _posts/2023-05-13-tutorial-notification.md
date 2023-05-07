@@ -18,7 +18,7 @@ Hello members👋, We are publishing below 2 tutorials in our github organizatio
 | **Tutorial** | **Keywords** | **Link** |
 |:-----:|:-----:|:-----:|
 | [Docker] How to dockerize your hello world application | Docker, Go| Link |
-| [GitHub] How to set up local GitHub action runner       | GitHub actions | Link |
+| [GitHub] How to run your first github action       | GitHub actions | Link |
 
 You can also request the tutorials by writing to us over email.
 
