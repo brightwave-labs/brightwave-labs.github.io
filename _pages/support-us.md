@@ -3,7 +3,7 @@ permalink: /support-us/
 title: "Support Us"
 ---
 
-Dear **supporters** ❤️,
+Dear **supporters** ❤️,  
 As we continue to grow and expand our offerings at BrightWave Labs, we rely on your generous donations to help us achieve our goals.
 Your contributions help us create high-quality code repositories and resources that benefit individuals and businesses in the software industry.
 
