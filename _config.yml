@@ -69,12 +69,16 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/brightwavelabs/"
-    - label: "Meetings"
-      icon: "fab fa fa-calendar"
-      url: "https://calendly.com/brightwavelabs/connect-with-brightwave-labs"
     - label: "Slack"
       icon: "fab fa-fw fa-slack"
       url: "https://brightwavelabs.slack.com"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "#"
+    - label: "Book a meeting"
+      icon: "fab fa fa-calendar"
+      url: "https://calendly.com/brightwavelabs/connect-with-brightwave-labs"
+    
 
 footer:
   links:
