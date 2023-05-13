@@ -17,7 +17,7 @@ Hello members👋, We are publishing below 2 tutorials in our github organizatio
 
 | **Tutorial** | **Keywords** | **Link** |
 |:-----|:-----|:-----|
-| [Docker] How to dockerize your hello world application | Docker, Go| Link |
+| [Docker] How to dockerize your hello world application | Docker, Go| [Link](https://github.com/brightwave-labs/docker/blob/main/wiki/001/001.md) |
 | [GitHub] How to run your first github action       | GitHub actions | Link |
 
 You can also request the tutorials by writing to us over email.
