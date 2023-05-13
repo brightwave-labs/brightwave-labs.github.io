@@ -16,7 +16,7 @@ tags:
 Hello members👋, We are publishing below 2 tutorials in our github organization🏫. Below are the approved topics.
 
 | **Tutorial** | **Keywords** | **Link** |
-|:-----:|:-----:|:-----:|
+|:-----|:-----|:-----|
 | [Docker] How to dockerize your hello world application | Docker, Go| Link |
 | [GitHub] How to run your first github action       | GitHub actions | Link |
 
