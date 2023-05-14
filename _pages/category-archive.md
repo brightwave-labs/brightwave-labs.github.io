@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
-author_profile: true
+title: "Request a tutorial"
+permalink: /request-tutorial/
 ---
+
+This page is to request a tutorial
