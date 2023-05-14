@@ -1,11 +1,11 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "Request-a-tutorial"
+    url: /request-a-tutorial/
   - title: "Tags"
     url: /tags/
   - title: "About"
     url: /about/
-  - title: "Support Us"
+  - title: "Support-us"
     url: /support-us/
