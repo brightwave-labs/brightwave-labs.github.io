@@ -26,8 +26,8 @@ We are publishing below 2 tutorials in our github organization🏫. Below are th
 
 | **Tutorial** | **Keywords** | **Link** |
 |:-----|:-----|:-----|
-| x |x | Link |
-|  x      | x | Link |
+|  What is Database and their different types | SQL, Daatabase | Link |
+|  How to connect mongoDB with GoLang      | Golang, Database | Link |
 
 You can also request the tutorials by writing to us over email or track your
 requests [here](https://github.com/brightwave-labs/requested-tutorials/blob/main/README.md).
