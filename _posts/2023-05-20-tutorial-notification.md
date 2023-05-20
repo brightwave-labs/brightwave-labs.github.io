@@ -26,7 +26,7 @@ We are publishing below 2 tutorials in our github organization🏫. Below are th
 
 | **Tutorial** | **Keywords** | **Link** |
 |:-----|:-----|:-----|
-|  What is Database and their different types | SQL, Daatabase | Link |
+|  What is Database and their different types | SQL, Database | Link |
 |  How to connect mongoDB with GoLang      | Golang, Database | Link |
 
 You can also request the tutorials by writing to us over email or track your
