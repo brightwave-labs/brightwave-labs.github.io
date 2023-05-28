@@ -19,8 +19,8 @@ We have published below 2 tutorials in our github organization🏫.
 
 | **Tutorial** | **Keywords** | **Link** |
 |:-----|:-----|:-----|
-|  What is Database and their different types | SQL, Database | Link |
-|  How to connect mongoDB with GoLang      | Golang, Database | Link |
+|  What is Database and their different types | SQL, Database | [Link](https://github.com/brightwave-labs/database/blob/main/wiki/001.md) |
+|  How to connect mongoDB with GoLang      | Golang, Database | [Link](https://github.com/brightwave-labs/database/blob/main/wiki/002.md) |
 We are publishing below 2 tutorials in our github organization🏫. Below are the approved topics.
 
 | **Tutorial** | **Keywords** | **Link** |
