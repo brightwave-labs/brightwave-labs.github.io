@@ -1,5 +1,5 @@
 ---
-title: "10th June, 2023 Newsletter"
+title: "17th June, 2023 Newsletter"
 categories:
   - Blog
 tags:
