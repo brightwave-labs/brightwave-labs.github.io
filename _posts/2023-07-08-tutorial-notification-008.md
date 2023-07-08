@@ -1,5 +1,5 @@
 ---
-title: "1st July, 2023 Newsletter"
+title: "8th July, 2023 Newsletter"
 categories:
   - Blog
 tags:
